@@ -29,7 +29,7 @@ ingredients:
     item: Ground Cloves (or 1/4 tsp for extra spice)
   - count: 3/4 tsp
     item: Salt
-  - count: 3/4 Cup (100g)
+  - count: 3/4 Cup (175g)
     item: Granulated Sugar
   - count: 3/4 Cup (110g)
     item: Packed Brown Sugar
