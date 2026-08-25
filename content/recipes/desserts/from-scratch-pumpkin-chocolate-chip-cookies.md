@@ -1,7 +1,7 @@
 ---
 title: From Scratch Pumpkin Chocolate Chip Cookies
 category: Desserts
-pubDate: '2026-06-22'
+pubDate: '2026-08-25'
 prepTime: 25 min
 cookTime: 11-13 min
 intro: These pumpkin chocolate chip cookies are absolutely delicious. You'll find that using all the individual ingredients vs just pumpkin pie spice makes a world of difference and creates the perfectly spiced classic pumpkin flavor.
@@ -13,7 +13,7 @@ credit:
   url: https://www.cookingclassy.com/wprm_print/pumpkin-chocolate-chip-cookies
 yield: 40 cookies
 ingredients:
-  - count: 3 Cups (325g)
+  - count: 3 Cups (425g)
     item: All-Purpose Flour
   - count: 3 tsp
     item: Baking Powder
